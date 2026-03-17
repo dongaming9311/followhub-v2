@@ -1,0 +1,4 @@
+firebase_key.json
+*_session.json
+__pycache__/
+*.pyc
